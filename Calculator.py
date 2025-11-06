@@ -96,4 +96,4 @@ if __name__ == "__main__":
     except ZeroDivisionError as e:
         print(f"ZeroDivisionError caught: {e}")
     except Exception as e:
-        print(f"Unexpected error: {e}")
+        print(f"Unexpected error: {e}"
